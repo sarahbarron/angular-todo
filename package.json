@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahbarron/angular-todo.git"
+  },
+  "author": "sarah barron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahbarron/angular-todo/issues"
+  },
+  "homepage": "https://github.com/sarahbarron/angular-todo#readme"
+}
